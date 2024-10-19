@@ -52,7 +52,7 @@ Contributions to ANANTA are welcome! If you would like to contribute, please fol
 5. Submit a pull request detailing your changes.
 
 ## Contact
-For any inquiries or feedback, please contact Sumit Kumar at nitesh4b@gmail.com.
+For any inquiries or feedback, please contact Nitesh Kumar at nitesh4b@gmail.com.
 
 ## Acknowledgements
 We would like to acknowledge all the contributors to ANANTA and express our gratitude to the individuals, organizations, and resources that have supported its development.
